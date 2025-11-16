@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-#from Task2 import DataProcessor, MLP
+from Task2 import DataProcessor, MLP
 
 class GUI:
     def __init__(self, main_menu):
