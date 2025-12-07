@@ -1,0 +1,2 @@
+name,rows,classes,vocab_size,avg_length,p95_length,imbalance_ratio,recommended_max_len,recommended_max_words
+1. BASIC Augmentation,7000,5,56621,130,348,4.711832061068702,348,33720
